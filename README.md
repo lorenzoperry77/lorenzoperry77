@@ -1,4 +1,4 @@
-## Olá, sou o Lorenzo Perry! 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=lorenzoperry77&color=FBC02D" /> <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=300&color=FBC02D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello!+I'm+Lorenzo+Perry;Data+Science+Student&duration=3200" alt="Typing SVG" /> </a> </h1> ---
 
 **`Data Scientist/Data Analyst`**
 
