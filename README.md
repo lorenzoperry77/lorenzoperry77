@@ -41,3 +41,4 @@ Tenho 21 anos e sou licenciado em Data Science pela Universidade do Minho.
   
 </div>
 
+[![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoperry77&theme=onedark)](https://github.com/lorenzoperry77/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoperry77&layout=donut&theme=onedark)](https://github.com/lorenzoperry77/github-readme-stats)
